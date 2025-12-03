@@ -1,5 +1,30 @@
 # Development Commands Reference
 
+## 🎉 PUBLISHED PACKAGE INFO
+
+**Package Name**: `@khatiwadaprashant/react-animation-kit`  
+**Version**: 1.0.0  
+**Published**: December 4, 2024  
+**NPM Page**: https://www.npmjs.com/package/@khatiwadaprashant/react-animation-kit  
+**Author**: Prashant Khatiwada (khatiwadaprashant)  
+**Email**: prashantkhatiwada554@gmail.com  
+**Contact**: 9762713987
+
+### Quick Links
+- **NPM Package**: https://www.npmjs.com/package/@khatiwadaprashant/react-animation-kit
+- **GitHub Repo**: https://github.com/Prashant8Khatiwada/animation-library
+- **Install**: `npm install @khatiwadaprashant/react-animation-kit`
+
+### Package Stats
+- **Size**: 58.8 KB (packed), 377 KB (unpacked)
+- **Components**: 142 animation components + 10 interactive
+- **Files**: 77 files
+- **License**: MIT
+- **Downloads**: Check at https://npm-stat.com/charts.html?package=@khatiwadaprashant/react-animation-kit
+
+---
+
+
 ## 📦 Package Management
 
 ### Install Dependencies

@@ -38,3 +38,5 @@ lerna-debug.log*
 .vercel
 .next
 
+# Personal reference files
+commands.md
