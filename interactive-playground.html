@@ -201,7 +201,7 @@
             );
         }
 
-        function HoverGlow({ children }) {
+        function HoverGlowEffect({ children }) {
             const mouseX = useMotionValue(0);
             const mouseY = useMotionValue(0);
 
@@ -306,11 +306,11 @@
 
                         <section>
                             <h2>Hover Glow</h2>
-                            <HoverGlow>
+                            <HoverGlowEffect>
                                 <div className="demo-box" style={{ background: '#2C3E50', borderRadius: '20px' }}>
                                     Glow
                                 </div>
-                            </HoverGlow>
+                            </HoverGlowEffect>
                         </section>
 
                         <section>

@@ -10,7 +10,7 @@ interface HoverGlowProps {
     glowSize?: number
 }
 
-export function HoverGlow({
+export function HoverGlowEffect({
     children,
     className = '',
     glowColor = 'rgba(255, 255, 255, 0.5)',

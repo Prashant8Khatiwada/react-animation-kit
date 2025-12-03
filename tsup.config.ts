@@ -3,7 +3,8 @@ import { defineConfig } from 'tsup'
 export default defineConfig({
     entry: {
         index: 'src/index.ts',
-        'variants/index': 'src/variants/index.ts',
+        'animations/index': 'src/components/animations/index.ts',
+        'interactive/index': 'src/components/interactive/index.ts',
         'components/index': 'src/components/index.ts',
         'hooks/index': 'src/hooks/index.ts',
         'presets/index': 'src/presets/index.ts',

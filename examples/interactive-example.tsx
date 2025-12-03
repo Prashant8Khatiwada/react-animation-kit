@@ -6,12 +6,12 @@ import {
     ElasticScale,
     DraggableSnap,
     Shake,
-    HoverGlow,
+    HoverGlowEffect,
     ScrollReveal,
     Orbit,
     WaveList,
 } from '../src/components'
-import { useRef } from 'react'
+import React from 'react'
 
 export default function InteractiveExample() {
     return (
@@ -74,11 +74,11 @@ export default function InteractiveExample() {
                 {/* Hover Glow */}
                 <section>
                     <h2>Hover Glow</h2>
-                    <HoverGlow>
+                    <HoverGlowEffect>
                         <div style={{ ...boxStyle, background: '#2C3E50' }}>
                             Hover for Glow
                         </div>
-                    </HoverGlow>
+                    </HoverGlowEffect>
                 </section>
 
                 {/* Scroll Reveal */}
